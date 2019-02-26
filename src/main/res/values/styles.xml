@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget"/>
+
+    <style name="Widget.ProgressBar.CircularProgressBar" parent="Widget">
+        <item name="android:adjustViewBounds">true</item>
+        <item name="progressColor">@color/cpb_default_progress</item>
+        <item name="progressWidth">15dp</item>
+        <item name="roundCorners">true</item>
+        <item name="titleColor">@color/cpb_default_title</item>
+        <item name="subtitleColor">@color/cpb_default_subtitle</item>
+    </style>
+
+    <style name="Widget.ProgressBar.Holo.CircularProgressBar" parent="Widget.ProgressBar.CircularProgressBar">
+        <item name="progressWidth">5dp</item>
+    </style>
+
+</resources>

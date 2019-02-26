@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main palette -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#33979797</color>
+    <color name="light_gray">#DCDCDC</color>
+    <color name="blue">#4633FF</color>
+    <color name="dark_red">#b30000</color>
+    <color name="red">#E20F00</color>
+
+    <!-- Transparent -->
+    <color name="gray_transparent">#80979797</color>
+    <color name="white_transparent">#D4FFFFFF</color>
+    <color name="black_transparent">#BF000000</color>
+
+    <!-- Progress default -->
+
+    <color name="cpb_default_progress">@color/white</color>
+    <color name="cpb_default_background">@color/gray</color>
+    <color name="cpb_default_title">@color/light_gray</color>
+    <color name="cpb_default_subtitle">@color/light_gray</color>
+    <color name="cpb_default_background_color">@color/black_transparent</color>
+    <color name="cpb_default_secondary_progress_gradient">@color/dark_red</color>
+
+</resources>
